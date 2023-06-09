@@ -1,0 +1,1 @@
+[Sunxi T113 details](https://linux-sunxi.org/T113-s3)
